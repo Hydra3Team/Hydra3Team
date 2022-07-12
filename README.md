@@ -11,9 +11,11 @@
 ## 🔧 Technologies & Tools
 
 ### OS :
+<div align="center">
 
-![Linux](https://img.shields.io/badge/OS-%20Linux-yellow?style=for-the-badge&logo=Linux)
-![Windows](https://img.shields.io/badge/OS-%20Windows-red?style=for-the-badge&logo=windows)
+  <a href="">![Linux](https://img.shields.io/badge/OS-%20Linux-yellow?style=for-the-badge&logo=Linux)</a>
+  <a href="">![Windows](https://img.shields.io/badge/OS-%20Windows-red?style=for-the-badge&logo=windows)</a>
+</div>
 
 <!--<img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="Windows" style="vertical-align:top; margin:4px">-->
 
@@ -51,6 +53,7 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
 </a>  
 </p>
+<br>
 
 ### Tools :
 <p align="center">
@@ -73,14 +76,16 @@
 </a> 
 </p>
 
-### Pronouns 
+
+### Pronouns :
 <p align="center">
    <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/theythem.svg" alt="they / them" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p> 
 
-### 📢 Find US elsewhere
+
+### 📢 Find US elsewhere :
 <p align="center">
     </a>    <a href="https://www.tiktok.com/@.hydrateam">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
@@ -95,7 +100,7 @@
 
 
 </p>
----
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -106,7 +111,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hydra3Team&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
----
+
 
 <div align="center">
 
