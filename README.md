@@ -12,9 +12,9 @@
 
 ### OS :
 <div align="center">
+  <img src="https://img.shields.io/badge/%20Linux-red?style=plastic&logo=Linux&logoColor=black&labelColor=red&color=black" height="30" />
+  <img src="https://img.shields.io/badge/%20Windows-yellow?style=plastic&logo=windows&logoColor=blue&labelColor=white&color=black" height="30" />
 
-  <a href="">![Linux](https://img.shields.io/badge/OS-%20Linux-yellow?style=for-the-badge&logo=Linux)</a>
-  <a href="">![Windows](https://img.shields.io/badge/OS-%20Windows-red?style=for-the-badge&logo=windows)</a>
 </div>
 
 <!--<img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/wpf.svg" alt="Windows" style="vertical-align:top; margin:4px">-->
@@ -38,6 +38,9 @@
 <a href="#">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
 </a>  
+    <img src="https://img.shields.io/badge/%20C++-yellow?style=plastic&logo=cplusplus&logoColor=blue&labelColor=white&color=gray" height="30" />
+    <img src="https://img.shields.io/badge/%20C-yellow?style=plastic&logo=c&logoColor=blue&labelColor=black&color=yellow" height="30" />
+
 </p>
 
 #
@@ -56,6 +59,9 @@
 <a href="#">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
 </a>  
+<a href="#">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
+</a>
 </p>
 <br>
 
