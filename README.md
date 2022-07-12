@@ -114,7 +114,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra3Team&langs_count=8&theme=dark">
 </a>
 <a href="https://github.com/Hydra3Team/Hydra3Team">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hydra3Team&show_icons=true&theme=radical" alt="Martin's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hydra3Team&show_icons=true&theme=dark" alt="Martin's GitHub Stats" />
 </a>
 
 
